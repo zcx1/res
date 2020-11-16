@@ -1,0 +1,8 @@
+version: "3"
+
+services:
+
+  prod-server:
+    build: .
+    ports:
+      - "80:80"

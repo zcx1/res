@@ -1,0 +1,13 @@
+html, body, #app {
+  height: 100%;
+}
+body {
+  overflow-x: hidden;
+  background-color: #f8f9fa !important;
+}
+[v-cloak] {
+  display: none;
+}
+.pointer {
+  cursor: pointer;
+}
